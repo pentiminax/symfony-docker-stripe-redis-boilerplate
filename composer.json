@@ -11,6 +11,7 @@
         "ext-iconv": "*",
         "runtime/frankenphp-symfony": "^0.2.0",
         "stripe/stripe-php": "^16.5",
+        "symfony/apache-pack": "^1.0",
         "symfony/asset-mapper": "7.2.*",
         "symfony/console": "7.2.*",
         "symfony/dotenv": "7.2.*",
